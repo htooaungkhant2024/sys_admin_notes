@@ -1,5 +1,4 @@
-# sys_admin_notes
-CISA
+# System & Security Note
 # Fortinet
 # https://pressbooks.bccampus.ca/fortigatefirewall/
 # PaloAlto
@@ -12,3 +11,5 @@ CISA
 # https://github.com/psaumur/CCNA_Course_Notes
 # OSCP Note
 # https://github.com/Sp4c3Tr4v3l3r/OSCP
+# CEH Note
+# https://github.com/Aftab700/CEH_Notes
