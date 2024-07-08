@@ -7,6 +7,8 @@
 # https://talebi.gitbook.io/checkpoint
 # Windows
 # https://talebi.gitbook.io/windows-server
+# Linux
+# https://github.com/MaheshShukla1/Linux-Basic-to-Advanced-Notes
 # Networking CCNA
 # https://github.com/psaumur/CCNA_Course_Notes
 # Networking CCNP
